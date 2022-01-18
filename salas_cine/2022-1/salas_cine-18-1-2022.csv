@@ -1,101 +1,101 @@
-localidad_id,provincia_id,espacio_cultural_id,categoria,provincia,localidad,nombre,direccion,codigo_postal,codigo_indicativo_telefono,telefono,mail,web
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
-,,,salas_cine,,,,,,,,,
+Web,tipo_gestion,Piso,Provincia,TipoLatitudLongitud,Nombre,Mail,Cod_Loc,Observaciones,Departamento,Categoría,Longitud,Butacas,espacio_INCAA,Dirección,Localidad,CP,Información adicional,Latitud,Teléfono,Fuente,año_actualizacion,IdProvincia,cod_area,Pantallas,IdDepartamento,categoria
+http://www.cinemacenter.com.ar/,Privado comercial,s/d,Catamarca,Localización precisa,Cinemacenter,s/d,10049030,,Capital,Salas de cine,-65.800675,743,,Intendente Mamerto Medina 220,Catamarca,4700,,-28.464737,s/d,INCAA / SInCA,2018,10,s/d,5,10049,salas_cine
+s/d,Privado comercial,s/d,Catamarca,Localización precisa,Centro Cultural San Agustín,s/d,10091150,,Santa Maria,Salas de cine,-66.049058,440,0,San Martin 173,Santa María,4139,,-26.693859,421511,INCAA / SInCA,2018,10,3838,1,10091,salas_cine
+http://resistencia.loscinesdelacosta.com.ar/,Privado comercial,s/d,Chaco,Localización precisa,Los Cines De La Costa,administracion@loscinesdelacosta.com.ar,22140060,,San Fernando,Salas de cine,-58.962672,820,,Av. Sarmiento 2600,Resistencia,3500,,-27.430995,472200,INCAA / SInCA,2018,22,3794,5,22140,salas_cine
+http://www.culturachubut.gob.ar/…/convo-evita-culturales.ht…,Público municipal,s/d,Chubut,Localización precisa,Deborah Jones De Williams,culturasarmiento@hotmail.com,26091020,,Sarmiento,Salas de cine,-69.069594,80,,Reg. Inf. Mec. 25 Esquina 20 De Junio,Sarmiento,9020,,-45.594374,4897169,INCAA / SInCA,2018,26,297,1,26091,salas_cine
+https://www.facebook.com/CineFantasioBellaVista/,Privado comercial,s/d,Corrientes,Localización precisa,Fantasio,nuevocineteatrorex@gmail.com,18007010,,Bella Vista,Salas de cine,-59.045464,240,,Salta 1059,Bella Vista,3432,,-28.508494,s/d,INCAA / SInCA,2018,18,s/d,1,18007,salas_cine
+http://cinemagualeguaychu.com,Privado comercial,s/d,Entre Ríos,Localización precisa,Cinema Gualeguaychú,cebriancine@gmail.com,30056070,,Gualeguaychu,Salas de cine,-58.525474,330,,25 De Mayo 1383,Gualeguaychú,2820,,-33.009937,4553653,INCAA / SInCA,2018,30,263,1,30056,salas_cine
+http://www.crespo.gov.ar,Público municipal,s/d,Entre Ríos,Localización precisa,Salón Teatro Municipal,municres@gmail.com,30084070,,Parana,Salas de cine,-60.305828,180,,25 De Mayo 943,Crespo,3116,,-32.031231,4951160,INCAA / SInCA,2018,30,343,1,30084,salas_cine
+http://cinegranlibertad.com/sala/gran-libertad/alias/chaj,Privado comercial,s/d,Entre Ríos,Localización precisa,Cine Gran Libertad,gerenciagranlibertad@gmail.com,30028010,,Federacion,Salas de cine,-57.984929,400,,3 De Febrero 3060,Chajarí,3228,,-30.759415,49899707,INCAA / SInCA,2018,30,11,1,30028,salas_cine
+https://www.cinecirculo.com.ar/,Privado comercial,s/d,Entre Ríos,Localización precisa,Cine Complejo Círculo,v-vieiro@hotmail.com,30084160,,Parana,Salas de cine,-60.524631,300,,Andres Pazos 339,Paraná,3100,,-31.732929,4233222,INCAA / SInCA,2018,30,343,2,30084,salas_cine
+http://www.santacruz.gob.ar,Público municipal,s/d,Santa Cruz,Localización precisa,Cine Municipal,s/d,78049020,,Rio Chico,Salas de cine,-70.246605,80,,Av. San Martin 514,Gobernador Gregores,9311,,-48.750801,491228,INCAA / SInCA,2018,78,2962,1,78049,salas_cine
+https://www.facebook.com/pg/StarlightCineColon/about/?ref=page_internal,Privado comercial,s/d,Entre Ríos,Localización precisa,Starlight,samanthaeventos@hotmail.com,30008020,,Colon,Salas de cine,-58.138713,154,,Calle 12 De Abril 287,Colón,3280,,-32.22154,424481,INCAA / SInCA,2018,30,3447,2,30008,salas_cine
+https://www.facebook.com/pg/CineAltosDeGualeguay/about/?ref=page_internal,Privado comercial,s/d,Entre Ríos,Localización precisa,Altos Del Gualeguay,legales@nefroargentina.com.ar,30049040,,Gualeguay,Salas de cine,-59.311609,198,,Rocamora 33,Gualeguay,2840,,-33.150323,453306,INCAA / SInCA,2018,30,3444,1,30049,salas_cine
+https://capectilcara.com/,Privado independiente,s/d,Jujuy,Localización precisa,Barbarita Cruz,musica@imagine.com.ar,38094050,,Tilcara,Salas de cine,-65.393961,120,si,Belgrano 547,Tilcara,4624,,-23.577105,4955462,INCAA / SInCA,2018,38,388,1,38094,salas_cine
+https://www.facebook.com/CineAuditoriumJujuyINCAAMercosur/,Otros,s/d,Jujuy,Localización precisa,Cine Auditorium,cineauditoriumjujuy@gmail.com,38021060,,Dr. Manuel Belgrano,Salas de cine,-65.292851,201,,Independencia Esq. Italia S/N,San Salvador de Jujuy,4600,,-24.187252,4632908,INCAA / SInCA,2018,38,388,1,38021,salas_cine
+s/d,Público municipal,s/d,La Pampa,Localización precisa,Centro Cultural Doblas,culturaydeportedoblas@cosedo.com.ar,42007010,,Atreuco,Salas de cine,-64.011298,114,,Cordoba 670,Doblas,6305,,-37.152139,492102,INCAA / SInCA,2018,42,2953,1,42007,salas_cine
+https://www.facebook.com/pages/Cine-Milenium/321221581543378,Privado comercial,s/d,La Pampa,Localización precisa,Milenium,cineamadeus@yahoo.com.ar,42021020,,Capital,Salas de cine,-64.294797,352,,Escalante 270,Santa Rosa,6300,,-36.623122,4773833,INCAA / SInCA,2018,42,295,1,42021,salas_cine
+http://cinema3dlarioja.com/,Privado comercial,s/d,La Rioja,Localización precisa,Cinema,ericontadoralinares@gmail.com,46042010,,Chilecito,Salas de cine,-67.495688,216,,La Plata Y 19 De Febrero,Chilecito,5360,,-29.163011,4626907,INCAA / SInCA,2018,46,380,2,46042,salas_cine
+https://www.facebook.com/Cine-Teatro-San-Martin-Puerto-Rico-Misiones-611780998973270/,Público municipal,s/d,Misiones,Localización precisa,Cine Teatro Municipal San Martin,cultura.puertoricomnes@gmail.com,54077060,,Libertador Grl. San Martin,Salas de cine,-55.02552,520,,Av. San Martin 1474,Puerto Rico,3334,,-26.811821,422400,INCAA / SInCA,2018,54,3743,1,54077,salas_cine
+http://www.panoramicgrand.com,Privado comercial,s/d,Misiones,Localización precisa,Cine Panoramic Grand,s/d,54063030,,Iguazu,Salas de cine,-54.575744,40,,Paraguay 372,Puerto Iguazú,3370,,-25.593393,498100,INCAA / SInCA,2018,54,3757,1,54063,salas_cine
+https://www.parquedelconocimiento.com/,Público provincial,s/d,Misiones,Localización precisa,Del Conocimiento,info@imaxdelconocimiento.com,54028030,,Capital,Salas de cine,-55.963477,546,si,Ruta 12 Y Acceso Oeste (Av. Ulises Lopez),Posadas,3300,,-27.396198,191010,INCAA / SInCA,2018,54,3764,1,54028,salas_cine
+https://www.facebook.com/Centro-Cultural-13-de-Febrero-Cine-teatro-962533320483179/,Privado comercial,s/d,Salta,Localización precisa,Centro Cultural 13 De Febrero,cine13defebrero2013@outlook.com,66049040,,General Guemes,Salas de cine,-65.045895,252,,20 De Febrero Esq. Gorriti,General Guemes,4430,,-24.676303,496276,INCAA / SInCA,2018,66,3874,1,66049,salas_cine
+http://www.elteatrino.com/,Privado comercial,s/d,Salta,Localización precisa,El Teatrino,industriaculturalsrl@gmail.com,66028050,,Capital,Salas de cine,-65.417864,120,,Aniceto Latorre 1211,Salta,4400,,-24.773232,4228904,INCAA / SInCA,2018,66,387,1,66028,salas_cine
+https://www.cinemarkhoyts.com.ar,Privado comercial,s/d,Salta,Localización precisa,Cinemark,lventura@cinemark.com.ar,66028050,,Capital,Salas de cine,-65.428458,897,,Av. Monseñor Tavella 4400,Salta,4400,,-24.832302,57771000,INCAA / SInCA,2018,66,s/d,5,66028,salas_cine
+http://www.distritoteatralsalta.com/espacio/teatro-de-la-fundacion-salta/,Privado comercial,s/d,Salta,Localización precisa,Fundación Salta,correofundacionsalta@gmail.com,66028050,,Capital,Salas de cine,-65.408451,145,,General Guemes 434,Salta,4400,,-24.786574,4320481,INCAA / SInCA,2018,66,387,1,66028,salas_cine
+http://www.espaciosanjuan.com/,Privado comercial,s/d,San Juan,Localización precisa,Espacio San Juan,cpohl@cpmcines.com,70028010,,Capital,Salas de cine,-68.572839,849,,Av. Jose Ignacio De La Roza Oeste 806,San Juan,5417,,-31.539871,4238611,INCAA / SInCA,2018,70,264,5,70028,salas_cine
+https://www.facebook.com/CineStarMerlo/,Privado comercial,s/d,San Luis,Localización precisa,Cinestar,campos_horacio@yahoo.com.ar,74049060,,Junin,Salas de cine,-64.998214,100,,Av. Del Sol 1120,Merlo,5881,,-32.346991,475660,INCAA / SInCA,2018,74,2664,1,74049,salas_cine
+https://www.ciudaddesanluis.gov.ar/,Público municipal,s/d,San Luis,Localización precisa,Municipal José La Vía,elartenlaescuela@gmail.com,74056150,,La Capital,Salas de cine,-66.347846,75,,Av. Lafinur Y Av. Illia S/N,San Luis,5700,,-33.29922,403539,INCAA / SInCA,2018,74,2664,1,74056,salas_cine
+http://www.cineriogallegos.com.ar/,Privado comercial,s/d,Santa Cruz,Localización precisa,Cine Rio Gallegos,socin@hotmail.com,78021040,,Guer Aike,Salas de cine,-69.218735,290,,Av. Nestor Kirchner 1142,Río Gallegos,9400,,-51.619917,423753,INCAA / SInCA,2018,78,2966,3,78021,salas_cine
+http://www.santacruz.gob.ar,Privado comercial,s/d,Santiago del Estero,Localización precisa,Atlas Cine,rabdenur@gmail.com,86147130,,Rio Hondo,Salas de cine,-64.85833,233,,Bolivar 15,Termas de Río Hondo,4220,,-27.496838,55290375,INCAA / SInCA,2018,86,11,1,86147,salas_cine
+https://www.municipalidaddequimili.gob.ar/,Público municipal,s/d,Santiago del Estero,Localización precisa,Cine Teatro,sixtomadiaz@hotmail.com,86119100,,Moreno,Salas de cine,-62.413799,136,,Rivadavia 553,Quimili,3740,,-27.644486,402187,INCAA / SInCA,2018,86,3843,1,86119,salas_cine
+cineatlasweb.com.ar,Privado comercial,s/d,Tucumán,Localización precisa,Atlas Cine,rabdenur@gmail.com,90084010,,Capital,Salas de cine,-65.194059,219,,Av. Brigido Teran 250,San Miguel de Tucumán,4000,,-26.834701,55290375,INCAA / SInCA,2018,90,11,2,90084,salas_cine
+http://www.cinelunadeavellaneda.com,Privado comercial,s/d,Santa Fe,Localización precisa,Luna De Avellaneda,gscarel@estudioscarel.com.ar,82049020,,General Obligado,Salas de cine,-59.654853,299,,Av. San Martin 810,Avellaneda,3561,,-29.118061,598468,INCAA / SInCA,2018,82,3482,1,82049,salas_cine
+http://www.e-max.com.ar,Privado comercial,s/d,Santa Fe,Localización precisa,E-Max Cines,martin739@gmail.com,82070050,,Las Colonias,Salas de cine,-60.895483,584,,Brigadier Lopez 1471,Esperanza,3080,,-31.450826,420947,INCAA / SInCA,2018,82,3496,3,82070,salas_cine
+www.lastipasrafaela.com.ar/,Privado comercial,s/d,Santa Fe,Localización precisa,Las Tipas Boulevard,admin@lastipasboulevard.com.ar,82021310,,Castellanos,Salas de cine,-61.505319,920,,C. Conscripto Zurbriggen 865,Rafaela,2300,,-31.242567,405750,INCAA / SInCA,2018,82,3562,4,82021,salas_cine
+https://es-la.facebook.com/ccpacourondo/,Público provincial,s/d,Santa Fe,Localización precisa,Centro Cultural Prov. Francisco Paco Urondo,cencultu@yahoo.com.ar,82063170,,La Capital,Salas de cine,-60.702974,800,,Junin 2457,Santa Fe,3000,,-31.639196,4573735,INCAA / SInCA,2018,82,342,1,82063,salas_cine
+https://www.ate.org/listado_agenda/seccion/3/zona/26/cine-auditorio-ate.html,Privado independiente,s/d,Santa Fe,Localización precisa,Auditorio,infocet@atilra.org.ar,82021360,,Castellanos,Salas de cine,-61.546637,305,,Ruta 34 Km 262,Sunchales,2322,,-30.929934,454542,INCAA / SInCA,2018,82,3493,1,82021,salas_cine
+http://www.tadicor.com/Cines.php,Privado comercial,s/d,Mendoza,Localización precisa,Tadicor Las Heras,pcavallero@tadicor.com,50049050,,Las Heras,Salas de cine,-68.808148,284,,Juan Dragui Lucero 1450,Las Heras,5539,,-32.853189,4864350,INCAA / SInCA,2018,50,351,2,50049,salas_cine
+htpp:/www.tadicor.com sección cines ,Privado comercial,s/d,Mendoza,Localización precisa,Tadicor San Martin,pcavallero@tadicor.com,50098100,,San Martin,Salas de cine,-68.808184,302,,Lateral Sur Ruta Nacional 7 Sin Nro,San Martín,5570,,-32.853468,4864350,INCAA / SInCA,2018,50,351,2,50098,salas_cine
+http://sudcinemas.com.ar/cine-wp/cine/bellville/,Privado comercial,s/d,Córdoba,Localización precisa,Sudcinemas,sudcinemas@arnetbiz.com.ar,14182060,,Union,Salas de cine,-62.686628,324,,Mitre 61,Bell Ville,5900,,-32.630182,422337,INCAA / SInCA,2018,14,353,2,14182,salas_cine
+https://www.cinesdinomall.com.ar/,Privado comercial,s/d,Córdoba,Localización precisa,Dinosaurio Mall 60 Cuadras,s/d,14014010,,Capital,Salas de cine,-64.139799,307,,Av. Circunvalacion Agustin Tosco 4552,Córdoba,5014,,-31.455392,261500,INCAA / SInCA,2018,14,3515,2,14014,salas_cine
+"https://www.facebook.com › Places › Elena, Cordoba, Argentina › Movie Theater",Privado comercial,s/d,Córdoba,Localización precisa,Cine Teatro Coop Luz Y Fuerza,rboatti@coopluzelena.com.ar,14098110,,Rio Cuarto,Salas de cine,-64.393329,279,,Mitre 31,Elena,5815,,-32.571612,4881249,INCAA / SInCA,2018,14,358,1,14098,salas_cine
+http://coop-oliva.com.ar/,Privado comunitario ,s/d,Córdoba,Localización precisa,Cine Cooperativo,administracion@coop-oliva.com.ar / sofia santolin@coop-oliva,14161110,,Tercero Arriba,Salas de cine,-63.570425,200,,Colon 301,Oliva,5980,,-32.039403,410000,INCAA / SInCA,2018,14,3532,1,14161,salas_cine
+http://cba.gov.ar,Privado comercial,s/d,Córdoba,Localización precisa,Cines Del Paseo,riocuarto@cinesdelpaseo.com.ar,14098230,,Rio Cuarto,Salas de cine,-64.346569,955,,Av. Mugnaini Y Sobremonte,Río Cuarto,5800,,-33.118053,4621235,INCAA / SInCA,2018,14,358,4,14098,salas_cine
+http://www.cba.gov.ar/,Público provincial,s/d,Córdoba,Localización precisa,Centro Cultural Leonardo Favio,gamolayoli@hotmail.com,14098230,,Rio Cuarto,Salas de cine,-64.349166,219,,Buenos Aires 55,Río Cuarto,5800,,-33.124306,4676836,INCAA / SInCA,2018,14,358,1,14098,salas_cine
+http://www.cinesdinomall.com.ar,Privado comercial,s/d,Córdoba,Localización precisa,Dinosaurio Mall,cluduena@grupodinosaurio.com,14021250,,Colon,Salas de cine,-64.296023,322,,Av. Sarmiento 1007,Salsipuedes,5113,,-31.126828,261500,INCAA / SInCA,2018,14,3515,2,14021,salas_cine
+http://www.cinesunstar.com/,Privado comercial,s/d,Córdoba,Localización precisa,Sunstar,gerente.cordoba@cinesunstar.com,14014010,,Capital,Salas de cine,-64.289746,1398,,Ricardo Rojas 9200,Villa Rivera Indarte,5008,,-31.335765,446300,INCAA / SInCA,2018,14,3543,6,14014,salas_cine
+http://www.rojas.uba.ar/,Público nacional,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Centro Cultural Rector Ricardo Rojas,gabriel.guralnik@gmail.com,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.395954,250,,Av. Corrientes 2038,Ciudad Autónoma de Buenos Aires,1045,,-34.604682,49535405,INCAA / SInCA,2018,2,s/d,2,2000,salas_cine
+cineatlasweb.com.ar,Privado comercial,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Atlas Cine,info@atlascines.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.383485,585,,Av. Del Libertador 750,Ciudad Autónoma de Buenos Aires,1001,,-34.588095,43135050,INCAA / SInCA,2018,2,s/d,3,2000,salas_cine
+https://www.facebook.com/pg/amigosdelbellasartes/about/?ref=page_internal,Privado independiente,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Cine Amigos Del Bellas Artes,fwhite@aamnba.org.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.392686,235,,Av. Pte. Figueroa Alcorta 2280,Ciudad Autónoma de Buenos Aires,1425,,-34.583511,48034062,INCAA / SInCA,2018,2,s/d,1,2000,salas_cine
+http://www.granrivadavia.com.ar/inicio/,Privado comercial,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Cine Teatro Gran Rivadavia,paula@granrivadavia.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.485359,1494,si,Av. Rivadavia 8636,Ciudad Autónoma de Buenos Aires,1407,,-34.634819,46741300,INCAA / SInCA,2018,2,s/d,1,2000,salas_cine
+cineatlasweb.com.ar,Privado comercial,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Atlas Cine,info@atlascines.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.403997,432,,Jeronimo Salguero 3172,Ciudad Autónoma de Buenos Aires,1425,,-34.575385,43135050,INCAA / SInCA,2018,2,s/d,3,2000,salas_cine
+https://www.cinemarkhoyts.com.ar/,Privado comercial,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Hoyts,rmazzutti@hoyts.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.488435,1918,,Melian 4880,Ciudad Autónoma de Buenos Aires,1430,,-34.546344,57771000,INCAA / SInCA,2018,2,s/d,10,2000,salas_cine
+http://cinain.gob.ar/,Público nacional,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Cinain,fernandomadedo@cinain.gob.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.383194,212,,Moreno 1199,Ciudad Autónoma de Buenos Aires,1091,,-34.611997,43836432,INCAA / SInCA,2018,2,s/d,2,2000,salas_cine
+https://cinemadevoto.com.ar/,Privado comercial,s/d,Ciudad Autónoma de Buenos Aires,Localización precisa,Cinema Devoto,mlopez@cinemadevoto.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.516928,1908,,Quevedo 3365,Ciudad Autónoma de Buenos Aires,1417,,-34.611658,40196019,INCAA / SInCA,2018,2,s/d,8,2000,salas_cine
+https://www.ccborges.org.ar/,Privado comercial,Piso 3,Ciudad Autónoma de Buenos Aires,Localización precisa,Centro Cultural Borges,dpetchersky@yahoo.com.ar,2000010,,Ciudad Autonoma de Buenos Aires,Salas de cine,-58.374559,160,,Viamonte 525,Ciudad Autónoma de Buenos Aires,1005,,-34.599724,55555358,INCAA / SInCA,2018,2,s/d,1,2000,salas_cine
+https://es-la.facebook.com/ZarateCineTeatroColiseo/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Teatro Coliseo,maquintero78@gmail.com,6882050,,Zarate,Salas de cine,-59.022145,300,,19 De Marzo 314,Zarate,2800,,-34.097529,65992021,INCAA / SInCA,2018,6,11,1,6882,salas_cine
+http://www.cultura.laplata.gov.ar,Público municipal,Piso 2,Buenos Aires,Localización precisa,Cine Municipal Ecoselect,cineylocacioneslaplata@gmail.com,6441030,,La Plata,Salas de cine,-57.961577,60,SI,19 Y 51,La Plata,1900,,-34.926546,4248733,INCAA / SInCA,2018,6,221,1,6441,salas_cine
+http://www.cinemacenter.com.ar/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cinemacenter,gzamora@cinemacenter.com.ar,6357110,,General Pueyrredon,Salas de cine,-57.542939,1121,,Alberti 1610,Mar del Plata,7600,,-38.01162,52180400,INCAA / SInCA,2018,6,11,6,6357,salas_cine
+http://saltoyvos.com/tag/cine_cervantes/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cervantes,j.burgos.ceres@hotmail.com,6714060,,Salto,Salas de cine,-60.255264,220,,Alvear 65,Salto,2741,,-34.292986,551096,INCAA / SInCA,2018,6,2474,1,6714,salas_cine
+http://facebook.com/cinecervantes3d,Privado comercial,s/d,Buenos Aires,Localización precisa,Village,village.avellaneda@village.com.ar,6035010,,Avellaneda,Salas de cine,-58.332777,3485,,Autopista Bs. As. - La Plata Km 6,Avellaneda,1870,,-34.680206,51282828,INCAA / SInCA,2018,6,s/d,16,6035,salas_cine
+www.unica-cartelera.com.ar/teatros/259-sala-carlos-carella,Privado comercial,s/d,Buenos Aires,Localización precisa,Carlos Carella,edulabce@hotmail.com,6035010,,Avellaneda,Salas de cine,-58.386702,45,,Av. Galicia 401,Avellaneda,1870,,-34.673748,37608002,INCAA / SInCA,2018,6,11,1,6035,salas_cine
+https://www.facebook.com/cineteatroespanol/,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Español Lomas De Zamora,lomasteatroespanol@gmail.com,6490010,,Lomas de Zamora,Salas de cine,-58.402631,522,SI,Av. Hipolito Yrigoyen 9070,Lomas de Zamora,1832,,-34.761251,42430381,INCAA / SInCA,2018,6,s/d,1,6490,salas_cine
+https://www.villagecines.com/,Privado comercial,s/d,Buenos Aires,Localización precisa,Village,village.merlo@village.com.ar,6539010,,Merlo,Salas de cine,-58.702902,1315,,Av. Juan Domingo Peron 24056,San Antonio de Padua,1718,,-34.66661,51688888,INCAA / SInCA,2018,6,s/d,6,6539,salas_cine
+https://www.tresdefebrero.gov.ar/noticias/cultura-y-educacin/reinauguracion-del-cine-teatro-ocean/,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Ocean,inoya@tresdefebrero.gov.ar,6840010,,Tres de Febrero,Salas de cine,-58.543873,271,,Av. La Plata 3530,Santos Lugares,1676,,-34.601301,47579861,INCAA / SInCA,2018,6,s/d,1,6840,salas_cine
+https://www.facebook.com/pg/ZarateCineTeatroColiseo/about/?ref=page_internal,Privado comercial,Piso 1,Buenos Aires,Localización precisa,Cine Coliseo,sespagch@hotmail.com,6014010,,Adolfo Gonzales Chaves,Salas de cine,-60.096037,250,SI,Av. San Martin 235,Gonzales Chaves,7513,,-38.031232,481740,INCAA / SInCA,2018,6,2983,1,6014,salas_cine
+s/d,Privado comunitario ,s/d,Buenos Aires,Localización precisa,María Esther Chiquita Domeño,analia.carbajo@live.com,6105060,,Bolivar,Salas de cine,-61.113367,256,SI,Av. San Martin 642,Bolivar,6550,,-36.231224,480184,INCAA / SInCA,2018,6,2314,1,6105,salas_cine
+https://www.vicentelopez.gov.ar/modernizacion/punto-de-interes/3-centro-cultural-munro,Público municipal,s/d,Buenos Aires,Localización precisa,Centro Cultural Municipal Munro,york.cultura@vicentelopez.gov.ar,6861010,,Vicente Lopez,Salas de cine,-58.523884,540,,Av. Velez Sarsfield 4650,Munro,1605,,-34.530372,47971162,INCAA / SInCA,2018,6,s/d,1,6861,salas_cine
+https://www.facebook.com/pages/Centro-Cultural-Leopoldo-Marechal-Hurlingham/297621827101262,Público municipal,s/d,Buenos Aires,Localización precisa,Centro Cultural Leopoldo Marechal,s/d,6408010,,Hurlingham,Salas de cine,-58.641971,600,,Av. Vergara 2396,Hurlingham,1686,,-34.576716,s/d,INCAA / SInCA,2018,6,s/d,1,6408,salas_cine
+https://www.facebook.com/pg/cinemarcospaz/about/?ref=page_internal,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Roma,cine@marcospaz.gov.ar,6525020,,Marcos Paz,Salas de cine,-58.838623,350,,Avellaneda 1950,Marcos Paz,1727,,-34.781222,4776523,INCAA / SInCA,2018,6,220,1,6525,salas_cine
+https://www.facebook.com/pg/CineTeatroSalaJoseHernandez/about/?ref=page_internal,Privado comercial,s/d,Buenos Aires,Localización precisa,José Hernández,soteras_jh_am@hotmail.com,6371010,,General San Martin,Salas de cine,-58.55834,660,,Balcarce 2973,Villa Ballester,1653,,-34.550658,47675752,INCAA / SInCA,2018,6,s/d,1,6371,salas_cine
+https://www.cinesargentinos.com.ar/horarios/c:733:cine-teatro-helios/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Teatro Helios,produccion@cineteatrohelios.com.ar,6568010,,Moreno,Salas de cine,-58.592904,349,SI,Boulevard San Martin 3076,El Palomar,1684,,-34.603921,47518647,INCAA / SInCA,2018,6,s/d,1,6560,salas_cine
+https://www.facebook.com/pg/Clases-de-Teatro-La-Plata-124851047580248/about/?ref=page_internal,Privado comercial,s/d,Buenos Aires,Localización precisa,Taller De Teatro - UNLP,proyeccionesterrestres@gmail.com,6441030,,La Plata,Salas de cine,-57.949853,100,,Calle 10 1076,La Plata,1900,,-34.919824,6239105,INCAA / SInCA,2018,6,221,1,6441,salas_cine
+https://web.ultracine.com/nueva-sala-cine-paris-de-balcarce/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Paris Balcarce,complejoparis1@gmail.com,6063010,,Balcarce,Salas de cine,-58.256225,272,,Calle 18 684,Balcarce,7620,,-37.848567,421703,INCAA / SInCA,2018,6,2266,1,6063,salas_cine
+https://www.facebook.com/pages/Cine-Teatro-Roma-General-Arenales/286484061815736,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Teatro Roma,mutualafc@yahoo.com.ar,6294050,,General Arenales,Salas de cine,-61.308525,208,,Castelli 152,General Arenales,6005,,-34.303846,460583,INCAA / SInCA,2018,6,2353,1,6294,salas_cine
+https://www.facebook.com/pg/Cine-Teatro-Arenas-3D-San-Bernardo-309783435805259/about/?ref=page_internal,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Teatro Arenas,s/d,6420020,,La Costa,Salas de cine,-56.677434,1358,,Chiozza 1776,San Bernardo,7111,,-36.699278,460050,INCAA / SInCA,2018,6,2257,3,6420,salas_cine
+http://www.cineparis.com.ar,Privado comercial,s/d,Buenos Aires,Localización precisa,Cine Paris,complejoparis1@gmail.com,6595070,,Olavarria,Salas de cine,-60.323944,383,,General Paz 2720,Olavarría,7400,,-36.894039,417751,INCAA / SInCA,2018,6,2284,2,6595,salas_cine
+https://www.facebook.com/pages/category/Government-Organization/Direcci%C3%B3n-de-Cultura-Ayacucho-1677928362483344/,Público municipal,s/d,Buenos Aires,Localización precisa,Hugo Del Carril,isaiasalgañaraz@gmail.com,6042010,,Ayacucho,Salas de cine,-58.485966,385,,Irigoyen 941,Ayacucho,7150,,-37.152582,454949,INCAA / SInCA,2018,6,2296,1,6042,salas_cine
+http://www.tucine.com.ar,Privado comercial,s/d,Buenos Aires,Localización precisa,Tu Cine,condor@dimarcointernacional.com,6413050,,Junin,Salas de cine,-60.945387,453,,Jorge Newbery 263,Junín,6000,,-34.583546,422299,INCAA / SInCA,2018,6,2364,3,6413,salas_cine
+https://www.facebook.com/cineteatroyorkolivos,Público municipal,s/d,Buenos Aires,Localización precisa,Centro Cultural York,york.cultura@vicentelopez.gov.ar,6861010,,Vicente Lopez,Salas de cine,-58.484962,280,,Juan Bautista Alberdi 895,Olivos,1636,,-34.507715,47119213,INCAA / SInCA,2018,6,s/d,1,6861,salas_cine
+https://www.cinemarkhoyts.com.ar/,Privado comercial,s/d,Buenos Aires,Localización precisa,Hoyts,rmazzutti@hoyts.com.ar,6568010,,Moron,Salas de cine,-58.629305,1865,,Juan Manuel De Rosas 658,Morón,1744,,-34.634968,54441000,INCAA / SInCA,2018,6,s/d,8,6568,salas_cine
+https://www.multiplex.com.ar/,Privado comercial,Piso 1,Buenos Aires,Localización precisa,Multiplex,ssomma@cinesmultiplex.com.ar,6638040,,Pilar,Salas de cine,-58.867098,1407,,Las Magnolias 754,Pilar,1629,,-34.447067,4384812,INCAA / SInCA,2018,6,230,9,6638,salas_cine
+www.cinemarossolujan.com/,Privado comercial,s/d,Buenos Aires,Localización precisa,Cinema Rosso,cinema-rosso@hotmail.com,6497060,,Lujan,Salas de cine,-59.115852,197,,Lavalle 410,Luján,6700,,-34.564152,423954,INCAA / SInCA,2018,6,2323,2,6497,salas_cine
+https://www.facebook.com/bibliotecapopularjingenieros/about/,Privado comunitario ,s/d,Buenos Aires,Localización precisa,El Cine De La Biblioteca,waltermarini@msn.com,6588100,,9 de Julio,Salas de cine,-60.887912,90,,Mendoza Y San Martin 991,9 de Julio,6500,,-35.444914,457354,INCAA / SInCA,2018,6,2317,1,6588,salas_cine
+https://www.facebook.com/INCAAQuilmes/,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Municipalidad De Quilmes,incaaquilmes@gmail.com,6658010,,Quilmes,Salas de cine,-58.253201,415,si,Mitre 721,Quilmes,1878,,-34.722566,42532213,INCAA / SInCA,2018,6,s/d,1,6658,salas_cine
+http://www.cinemacolon.com.ar,Privado comercial,s/d,Buenos Aires,Localización precisa,Cinema Colon,k.jana@cinemacolon.com.ar,6182030,,Coronel de Marina L. Rosales,Salas de cine,-62.076721,390,,Rivadavia 459,Punta Alta,8109,,-38.880196,68643237,INCAA / SInCA,2018,6,11,1,6182,salas_cine
+http://olavarria.flixcinema.com.ar/,Privado comercial,s/d,Buenos Aires,Localización precisa,Flix Olavarría,flix.olavarria@gmail.com,6595070,,Olavarria,Salas de cine,-60.304409,660,,Rivadavia 4730,Olavarría,7400,,-36.880816,444411,INCAA / SInCA,2018,6,2281,2,6595,salas_cine
+s/d,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Club La Luisa,deñegacionberuti@yahoo.com.ar / bttinaty@yahoo.com.ar,6826010,,Trenque Lauquen,Salas de cine,-62.51235,310,,San Martin 455,Beruti,6424,,-35.852614,491112,INCAA / SInCA,2018,6,2392,1,6826,salas_cine
+https://www.trenquelauquen.gov.ar/noticias/30-de-agosto-funciones-en-el-cine-santa-rosa/,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Santa Rosa De Lima,comprasente30deagosto@cetl.com.ar,6826040,,Trenque Lauquen,Salas de cine,-62.544355,410,,Santa Rosa De Lima 170,30 De Agosto,6405,,-36.278508,471739,INCAA / SInCA,2018,6,2392,1,6826,salas_cine
+https://www.instagram.com/lumiton_usina/,Público municipal,s/d,Buenos Aires,Localización precisa,Lumiton,lumiton.usina@gmail.com,6861010,,Vicente Lopez,Salas de cine,-58.515934,30,,Sargento Cabral 2354,Munro,1605,,-34.527919,45806236,INCAA / SInCA,2018,6,s/d,1,6861,salas_cine
+https://www.fandango.lat/ar/cines/cpm-cinemas-paseo-adrogue-190321-191200,Privado comercial,s/d,Buenos Aires,Localización precisa,Cinemas Paseo Adrogué,s/d,6028010,,Almirante Brown,Salas de cine,-58.396753,710,,Segui 699,Adrogué,1846,,-34.800097,42140763,INCAA / SInCA,2018,6,s/d,4,6028,salas_cine
+https://www.tresdefebrero.gov.ar/tema/cine-teatro-paramount/,Público municipal,s/d,Buenos Aires,Localización precisa,Cine Teatro Paramount,inoya@tresdefebrero.gov.ar,6840010,,Tres de Febrero,Salas de cine,-58.563977,645,SI,Tres De Febrero 2561,Caseros,1678,,-34.605396,47501438,INCAA / SInCA,2018,6,s/d,2,6840,salas_cine
+http://www.cinemacenter.com.ar/,Privado comercial,s/d,Catamarca,Localización precisa,Cinemacenter,centercatamarca@cinemacenter.com.ar,10049030,,Capital,Salas de cine,-65.774581,914,,Av. Guemes 850,Catamarca,4700,,-28.475867,4423040,INCAA / SInCA,2018,10,3833,5,10049,salas_cine
+http://www.ecomchaco.com.ar/guidomiranda/default.htm,Público provincial,s/d,Chaco,Localización precisa,Espacio Incaa Guido Miranda,lagomecita@hotmail.com,22140060,,San Fernando,Salas de cine,-58.9844801,167,si,Colón 164,Resistencia,3500,,-27.4556394,4810748,INCAA / SInCA,2018,22,3624,1,22140,salas_cine
+http://www.cinemacenter.com.ar/,Privado comercial,s/d,Chaco,Localización precisa,Cinemacenter,centeravalos@cinemacenter.com.ar,22140060,,San Fernando,Salas de cine,-58.987038,792,,Av. Lavalle 826,Resistencia,3500,,-27.438214,415999,INCAA / SInCA,2018,22,3624,5,22140,salas_cine
+http://www.cinemacenter.com.ar/,Privado comercial,s/d,Chaco,Localización precisa,Cinemacenter,centerresistencia@cinemacenter.com.ar,22140060,,San Fernando,Salas de cine,-58.987285,690,,Av. Dr. Sabin Y Av. Nicolas Avellaneda,Resistencia,3500,,-27.438747,446554,INCAA / SInCA,2018,22,3722,3,22140,salas_cine
+http://www.cinemadryn.com/,Privado comercial,s/d,Chubut,Localización precisa,Cine Teatro Auditorium,auditorium@madryn.com,26007020,,Biedma,Salas de cine,-65.035369,486,,28 De Julio 129,Puerto Madryn,9120,,-42.766251,455653,INCAA / SInCA,2018,26,2804,2,26007,salas_cine
+https://cines.com/argentina/espacio-incaa-trevelin/,Público municipal,s/d,Chubut,Localización precisa,Espacio INCAA Trevelin,culturatrevelin@gmail.com,26035060,,Futaleufu,Salas de cine,-71.463135,150,si,28 De Julio 414,Trevelin,9203,,-43.079516,480145,INCAA / SInCA,2018,26,2945,1,26035,salas_cine
+https://www.facebook.com/pg/Sala-Incaa-Km-1460-Trelew-197525007014521/about/?ref=page_internal,Público municipal,s/d,Chubut,Localización precisa,Espacio INCAA Km 1460,donato.enrique@hotmail.com,26077040,,Rawson,Salas de cine,-65.316231,100,si,9 De Julio 655,Trelew,9100,,-43.253461,4969388,INCAA / SInCA,2018,26,280,1,26077,salas_cine
+https://www.facebook.com/CulturaEsquel/,Público municipal,s/d,Chubut,Localización precisa,Auditorio Municipal De Esquel,coordinacioncultura@yahoo.com.ar,26035030,,Futaleufu,Salas de cine,-71.33242,243,,Belgrano 330,Esquel,9200,,-42.914332,5081526,INCAA / SInCA,2018,26,11,1,26035,salas_cine
+https://www.facebook.com/Cine-Coliseo-Trelew-262482040443290/,Privado comercial,Piso 1,Chubut,Localización precisa,Coliseo,delcoliseosa@speedy.com.ar,26077040,,Rawson,Salas de cine,-65.307667,380,,Belgrano 375,Trelew,9100,,-43.252784,425300,INCAA / SInCA,2018,26,2804,1,26077,salas_cine

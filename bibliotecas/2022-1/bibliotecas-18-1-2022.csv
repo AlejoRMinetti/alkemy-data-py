@@ -1,101 +1,101 @@
-localidad_id,provincia_id,espacio_cultural_id,categoria,provincia,localidad,nombre,direccion,codigo_postal,codigo_indicativo_telefono,telefono,mail,web
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
-,,,bibliotecas,,,,,,,,,
+Web,Piso,Provincia,Año_actualizacion,Cod_tel,TipoLatitudLongitud,Subcategoria,Observacion,Mail,Cod_Loc,Tipo_gestion,Departamento,año_inicio,Categoría,Longitud,Localidad,CP,Información adicional,Latitud,Teléfono,Fuente,IdProvincia,Nombre,Domicilio,IdDepartamento,categoria
+,,San Juan,2018,s/d,Localización precisa,,,s/d,70049060,Comunitaria,Iglesia,1930,Bibliotecas Populares,-69.130117,Rodeo,5465,,-30.20925,s/d,CONABIP,70,Biblioteca Popular Juan P. Garramuno,Santo Domingo,70049,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,asociacionroffo@yahoo.com.ar,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1916,Bibliotecas Populares,-58.49469,Ciudad de Buenos Aires,C1417EUD,,-34.598461,45010078,CONABIP,2,Biblioteca Popular Helena Larroque de Roffo,Simbrón 3058,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,popular12deoctubre@hotmail.com,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1910,Bibliotecas Populares,-58.448997,Ciudad de Buenos Aires,C1405CYM,,-34.613235,49880766,CONABIP,2,Biblioteca Popular 12 de Octubre,Calle Arengreen 1187,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,bibliotecapueyrredon@hotmail.com,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1916,Bibliotecas Populares,-58.501591,Ciudad de Buenos Aires,C1419FMD,,-34.57589,45729107,CONABIP,2,Biblioteca Popular Villa Pueyrredón Norte,Cockrane 2334,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,bibliotecapopularalberdi@yahoo.com.ar,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1910,Bibliotecas Populares,-58.437668,Ciudad de Buenos Aires,C1414DJN,,-34.596157,47753325,CONABIP,2,Biblioteca Popular Alberdi,Acevedo 666,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,s/d,Localización precisa,,,s/d,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1930,Bibliotecas Populares,-58.489941,Ciudad de Buenos Aires,1431,,-34.574226,s/d,CONABIP,2,Biblioteca Popular Domingo Faustino Sarmiento,Bucarelli 2583,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,bibliotecacsaavedra@yahoo.com,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1918,Bibliotecas Populares,-58.472504,Ciudad de Buenos Aires,C1429DED,,-34.549038,47015180,CONABIP,2,Biblioteca Popular Cornelio Saavedra,García del Río 2735/37,2000,bibliotecas
+,,Ciudad Autónoma de Buenos Aires,2018,11,Localización precisa,,,bibliotecajerodo@yahoo.com.ar,2000010,Comunitaria,Ciudad Autonoma de Buenos Aires,1917,Bibliotecas Populares,-58.509514,Ciudad de Buenos Aires,C1440ENO,,-34.660057,46865631,CONABIP,2,Biblioteca Popular José Enrique Rodo,Andalgalá 2051,2000,bibliotecas
+,,Buenos Aires,2018,2281,Localización precisa,,,bibliotecaronco@ceal.com.ar,6049020,Comunitaria,Azul,1892,Bibliotecas Populares,-59.874633,Azul,B7300GEM,,-36.78765,424409,CONABIP,6,Biblioteca Popular Bartolomé J. Ronco,Burgos 687,6049,bibliotecas
+,,Buenos Aires,2018,2354,Localización precisa,,,bibliotecapopular@live.com,6462040,Comunitaria,Leandro N. Alem,1916,Bibliotecas Populares,-61.810322,Juan Bautista Alberdi,6034,,-34.440804,480800,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Quintana,6462,bibliotecas
+,,Buenos Aires,2018,2936,Localización precisa,,,bibliotecacarhue@yahoo.com.ar,6007010,Comunitaria,Adolfo Alsina,1912,Bibliotecas Populares,-62.76005,Carhue,B6430CSL,,-37.180933,430724,CONABIP,6,Biblioteca Popular Pública Adolfo Alsina,C.Pellegrini 916,6007,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,biblioadrogue@yahoo.com.ar,6028010,Comunitaria,Almirante Brown,1918,Bibliotecas Populares,-58.38155,Adrogué,B1846CQN,,-34.797233,42141245,CONABIP,6,Amigos de la Biblioteca Esteban Adrogué,La Rosa 974,6028,bibliotecas
+,,Buenos Aires,2018,2314,Localización precisa,,,bib_rivadavia@yahoo.com.ar,6105060,Comunitaria,Bolivar,1911,Bibliotecas Populares,-61.113533,Bolívar,B6550BGB,,-36.232083,420626,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,Las Heras 80,6105,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,s/d,6658010,Comunitaria,Quilmes,1930,Bibliotecas Populares,-58.28,Bernal,B1876AWA,,-34.706567,42516302,CONABIP,6,Biblioteca Popular José Manuel Estrada,Espora 105 bis,6658,bibliotecas
+,,Buenos Aires,2018,291,Localización precisa,,,s/d,6056010,Comunitaria,Bahia Blanca,1882,Bibliotecas Populares,-62.267083,Bahía Blanca,B8000FTA,,-38.71885,4554055,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,Av. Colón 31,6056,bibliotecas
+,,Buenos Aires,2018,2926,Localización precisa,,,bibliotecasarmiento_2000@yahoo.com.ar,6203020,Comunitaria,Coronel Suarez,1915,Bibliotecas Populares,-61.934033,Coronel Suarez,B7540DZG,,-37.456583,423287,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Sarmiento 349,6203,bibliotecas
+,,Buenos Aires,2018,2346,Localización precisa,,,novaro1@hotmail.com,6224010,Comunitaria,Chivilcoy,1895,Bibliotecas Populares,-60.017683,Chivilcoy,B6620KFB,,-34.896533,422078,CONABIP,6,Biblioteca Popular Dr. Antonio Novaro,Moreno 30,6224,bibliotecas
+,,Buenos Aires,2018,2281,Localización precisa,,,ndominguezcachari@hotmail.com,6049030,Comunitaria,Azul,1918,Bibliotecas Populares,-59.4998,Cachari,B7214ABH,,-36.380017,481217,CONABIP,6,Biblioteca Popular Almafuerte,25 de Mayo 1664,6049,bibliotecas
+,,Buenos Aires,2018,2241,Localización precisa,,,bpsarmiento113@yahoo.com.ar,6217010,Comunitaria,Chascomus,1872,Bibliotecas Populares,-58.01245,Chascomús,B7130AFA,,-35.577367,423403,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Alvear 9,6217,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bpalberdi@yahoo.com.ar,6840010,Comunitaria,Tres de Febrero,1914,Bibliotecas Populares,-58.565733,Caseros,B1678HBF,,-34.607867,47597610,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Sarmiento 2706,6840,bibliotecas
+,,Buenos Aires,2018,2245,Localización precisa,,,bibsocial@speedy.com.ar,6238010,Comunitaria,Dolores,1945,Bibliotecas Populares,-57.678567,Dolores,B7100BNB,,-36.311033,446253,CONABIP,6,Biblioteca Popular General San Martín,Bartolomé Mitre 60,6238,bibliotecas
+,,Buenos Aires,2018,2227,Localización precisa,,,clubrivadavia@hotmail.com,6483040,Comunitaria,Lobos,1920,Bibliotecas Populares,-59.096217,Empalme Lobos,B7249AGB,,-35.18535,424614,CONABIP,6,Biblioteca Popular Rivadavia,Rivadavia 50,6483,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,s/d,6274010,Comunitaria,Florencio Varela,1920,Bibliotecas Populares,-58.276183,Florencio Varela,1888,,-34.810017,42556621,CONABIP,6,Biblioteca Popular Del Centro Cultural Sarmiento,Boccuzzi 97,6274,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bibliotecadfs@hotmail.com,6760010,Comunitaria,San Miguel,1913,Bibliotecas Populares,-58.711983,San Miguel,B1663HAL,,-34.543667,46641840,CONABIP,6,Biblioteca Popular Municipal Domingo Faustino Sarmiento,Sarmiento 1503,6760,bibliotecas
+,,Buenos Aires,2018,2356,Localización precisa,,,biblioteca@germania.com.ar,6351020,Comunitaria,General Pinto,1913,Bibliotecas Populares,-61.89245,General Pinto,6050,,-34.765517,421129,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,San Martín y R. Gowland,6351,bibliotecas
+,,Buenos Aires,2018,2344,Localización precisa,,,bibliofbalcarce@yahoo.com.ar,6287010,Comunitaria,General Alvear,1915,Bibliotecas Populares,-60.014533,General Alvear,7236,,-36.01695,481246,CONABIP,6,Biblioteca Popular Florencio Balcarce,San Martín 341,6287,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,s/d,6595060,Comunitaria,Olavarria,1930,Bibliotecas Populares,-60.163167,Hinojo,7318,,-36.863117,s/d,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Av.Mitre s/n,6595,bibliotecas
+,,Buenos Aires,2018,2362,Localización precisa,,,olegan@ciudad.com.ar,6413050,Comunitaria,Junin,1909,Bibliotecas Populares,-60.949067,Junín,B600GZC,,-34.590533,428071,CONABIP,6,Biblioteca Popular Olegario V. Andrade,Belgrano 191,6413,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,libertadorsanmartin.bib_lanus@yahoo.com.ar,6434010,Comunitaria,Lanus,1917,Bibliotecas Populares,-58.371683,Lanús Este,B1824ICK,,-34.714967,42493631,CONABIP,6,Biblioteca Popular Libertador San Martín,Eva Perón 2597,6434,bibliotecas
+,,Buenos Aires,2018,221,Localización precisa,,,bb001027@abc.gov.ar,6441030,Comunitaria,La Plata,1918,Bibliotecas Populares,-57.947317,La Plata,1900,,-34.9225,4241631,CONABIP,6,Biblioteca Popular Florentino Ameghino,Calle 58 Nº 774,6441,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,cfpmm@yahoo.com.ar,6245010,Comunitaria,Ensenada,1917,Bibliotecas Populares,-57.932683,Ensenada,1925,,-34.89765,42493631,CONABIP,6,Biblioteca Popular Mariano Moreno,Calle 48 Bis esq.126,6245,bibliotecas
+,,Buenos Aires,2018,2323,Localización precisa,,,abameghino@speedy.com.ar,6497060,Comunitaria,Lujan,1914,Bibliotecas Populares,-59.11545,Luján,B6700ZBA,,-34.565733,420329,CONABIP,6,Biblioteca Popular Ameghino,San Martín 485,6497,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bibliotecamentruyt@yahoo.com.ar,6490010,Comunitaria,Lomas de Zamora,2000,Bibliotecas Populares,-58.401117,Lomas de Zamora,B1832DGB,,-34.761133,42440837,CONABIP,6,Biblioteca Popular Antonio Mentruyt,Italia 44,6490,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,bpfelipederobles@yahoo.com.ar,6329020,Comunitaria,General Las Heras,1914,Bibliotecas Populares,-58.933333,General Las Heras,B1741BIT,,-34.916667,s/d,CONABIP,6,Biblioteca Popular Felipe de Robles (h,Las Heras 940,6329,bibliotecas
+,,Buenos Aires,2018,2227,Localización precisa,,,ccplbsarmiento@yahoo.com.ar,6483040,Comunitaria,Lobos,1912,Bibliotecas Populares,-59.0992,Lobos,7240,,-35.16975,421607,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Salgado 4143,6483,bibliotecas
+,,Buenos Aires,2018,2355,Localización precisa,,,bibliotecasarmiento@speedy.com.ar,6469080,Comunitaria,Lincoln,1889,Bibliotecas Populares,-61.53265,Lincoln,B6070CKB,,-34.870017,422394,CONABIP,6,Biblioteca Popular Municipal Domingo Faustino Sarmiento,Av.Massey 1439,6469,bibliotecas
+,,Buenos Aires,2018,2355,Localización precisa,,,cgbnalincoln@hotmail.com,6469080,Comunitaria,Lincoln,1919,Bibliotecas Populares,-61.529217,Lincoln,B6070AFY,,-34.8691,421436,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Av.Alem 1160,6469,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,s/d,6455030,Comunitaria,Las Flores,1908,Bibliotecas Populares,-59.105267,Las Flores,B7200AIQ,,-36.014517,s/d,CONABIP,6,Biblioteca Popular Ferrov. Ing. C. Echague,Leandro N.Alem 801,6455,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,bibpop-belgrano@yahoo.com.ar,6357110,Comunitaria,General Pueyrredon,1930,Bibliotecas Populares,-57.554567,Mar del Plata,B7600DSC,,-38.005533,s/d,CONABIP,6,Biblioteca Popular General Manuel Belgrano,Mitre 2579,6357,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bpbrmartinez@ciudad.com.ar,6756010,Comunitaria,San Isidro,1913,Bibliotecas Populares,-58.499883,Martinez,B1640EPC,,-34.48645,47929458,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,Aristóbulo del Valle 199,6756,bibliotecas
+,,Buenos Aires,2018,2324,Localización precisa,,,biblsarmientomercedes@hotmail.com,6532020,Comunitaria,Mercedes,1887,Bibliotecas Populares,-59.4315,Mercedes,6600,,-34.6492,432620,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Av.Mitre (29) 674,6532,bibliotecas
+,,Buenos Aires,2018,2272,Localización precisa,,,biberenchu@copesnet.com.ar,6574030,Comunitaria,Navarro,1907,Bibliotecas Populares,-59.27755,Navarro,6605,,-35.005767,430660,CONABIP,6,Biblioteca Popular Pública José R. de Erenchun,Calle 109 (Sarmiento Nº 67,6574,bibliotecas
+,,Buenos Aires,2018,2262,Localización precisa,,,s/d,6581040,Comunitaria,Necochea,1930,Bibliotecas Populares,-58.7389,Necochea,B7630CSR,,-38.55745,424117,CONABIP,6,Biblioteca Popular Andrés Ferreyra,Calle 54 Nº 3062,6581,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,s/d,6588100,Comunitaria,9 de Julio,1930,Bibliotecas Populares,-60.866667,9 de Julio,6500,,-35.433333,s/d,CONABIP,6,Biblioteca Popular Anastasio Prieto,Mitre 342,6588,bibliotecas
+,,Buenos Aires,2018,2284,Localización precisa,,,bibliotecaferroviaria@hotmail.com,6595070,Comunitaria,Olavarria,1904,Bibliotecas Populares,-60.32395,Olavarría,7400,,-36.897967,420893,CONABIP,6,Biblioteca Popular Ferroviaria M.Gandhi,Bolivar 3031,6595,bibliotecas
+,,Buenos Aires,2018,2284,Localización precisa,,,bibliocollinet@hotmail.com,6595070,Comunitaria,Olavarria,1909,Bibliotecas Populares,-60.325333,Olavarría,7400,,-36.893333,423317,CONABIP,6,Biblioteca Popular Armando Collinet,Alsina 2659,6595,bibliotecas
+,,Buenos Aires,2018,2923,Localización precisa,,,bib-sarmiento@s8.coopenet.com.ar,6700060,Comunitaria,Saavedra,1914,Bibliotecas Populares,-62.403933,Pigüe,8170,,-37.605117,476300,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Av.Mitre 170,6700,bibliotecas
+,,Buenos Aires,2018,2477,Localización precisa,,,bibliotecamenendez@yahoo.com.ar,6623100,Comunitaria,Pergamino,1900,Bibliotecas Populares,-60.5763,Pergamino,2700,,-33.895567,437327,CONABIP,6,Biblioteca Popular Pública Municipal Dr. Menéndez,San Martín 838,6623,bibliotecas
+,,Buenos Aires,2018,2396,Localización precisa,,,bibrivadavia@gmail.com,6609080,Comunitaria,Pehuajo,1910,Bibliotecas Populares,-61.897567,Pehuajó,6450,,-35.8094,472225,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,A.del Valle 567,6609,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,s/d,6035010,Comunitaria,Avellaneda,1921,Bibliotecas Populares,-58.390983,Piñeyro,1870,,-34.671917,42283687,CONABIP,6,Biblioteca Popular Veladas de estudio después del trabajo,Entre Ríos 731,6035,bibliotecas
+,,Buenos Aires,2018,2297,Localización precisa,,,bibguidoyspanorauch@ciudad.com.ar,6672010,Comunitaria,Rauch,1920,Bibliotecas Populares,-59.09225,Rauch,B7203BPP,,-36.777717,440290,CONABIP,6,Biblioteca Popular Guido y Spano,Av.San Martín 258,6672,bibliotecas
+,,Buenos Aires,2018,2352,Localización precisa,,,s/d,6210050,Comunitaria,Chacabuco,1920,Bibliotecas Populares,-60.066883,Rawson,6734,,-34.60505,491747,CONABIP,6,Biblioteca Popular Guillermo Rawson,25 de Mayo s/n,6210,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bpsi@arnet.com.ar,6756010,Comunitaria,San Isidro,1898,Bibliotecas Populares,-58.5104,San Isidro,1642,,-34.46815,47321954,CONABIP,6,Biblioteca Popular Juan M. de Pueyrredón,9 de Julio 501,6756,bibliotecas
+,,Buenos Aires,2018,3329,Localización precisa,,,bibliosp@redsp.com.ar,6770050,Comunitaria,San Pedro,1872,Bibliotecas Populares,-59.663983,San Pedro,2930,,-33.676433,426168,CONABIP,6,Biblioteca Popular Rafael Obligado,Bartolomé Mitre 460,6770,bibliotecas
+,,Buenos Aires,2018,2326,Localización precisa,,,rot14@hotmail.com,6735020,Comunitaria,San Antonio de Areco,2006,Bibliotecas Populares,-59.47315,San Antonio de Areco,2760,,-34.2433,452389,CONABIP,6,Biblioteca Popular Belgrano,Arellano 115,6735,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bibliotecamadero@hotmail.com,6749010,Comunitaria,San Fernando,1873,Bibliotecas Populares,-58.560268,San Fernando,1646,,-34.438293,47456093,CONABIP,6,Biblioteca Popular Juan N. Madero,Constitución 622,6749,bibliotecas
+,,Buenos Aires,2018,2325,Localización precisa,,,s/d,6728040,Comunitaria,San Andres de Giles,1930,Bibliotecas Populares,-59.4473,San Andrés de Giles,B6720AIN,,-34.443367,440319,CONABIP,6,Biblioteca Popular Alberdi,Rivadavia 658,6728,bibliotecas
+,,Buenos Aires,2018,2474,Localización precisa,,,bibliotlobos@speedy.com.ar,6714060,Comunitaria,Salto,1901,Bibliotecas Populares,-60.25365,Salto,B2741AVJ,,-34.293733,431411,CONABIP,6,Biblioteca Popular Dr. Tristán G. Lobos,Av.B.Mitre y San Martín,6714,bibliotecas
+,,Buenos Aires,2018,2923,Localización precisa,,,biblioteca_jbalberdi@yahoo.com.ar,6700070,Comunitaria,Saavedra,1916,Bibliotecas Populares,-62.348083,Saavedra,8174,,-37.768633,497053,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,25 de Mayo 139,6700,bibliotecas
+,,Buenos Aires,2018,2293,Localización precisa,,,bibliotecajbalberdi@yahoo.com.ar,6791050,Comunitaria,Tandil,1916,Bibliotecas Populares,-59.135833,Tandil,7000,,-37.31535,443670,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Av.Colón 1341,6791,bibliotecas
+,,Buenos Aires,2018,2293,Localización precisa,,,bpbrtandil@hotmail.com,6791050,Comunitaria,Tandil,1908,Bibliotecas Populares,-59.13775,Tandil,7000,,-37.326767,449093,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,San Martín 516,6791,bibliotecas
+,,Buenos Aires,2018,2392,Localización precisa,,,bibliotecarivadavia_tl@yahoo.com.ar,6826050,Comunitaria,Trenque Lauquen,1903,Bibliotecas Populares,-62.7322,Trenque Lauquen,6400,,-35.9747,422837,CONABIP,6,Biblioteca Popular Pública Rivadavia,Villegas 668,6826,bibliotecas
+,,Buenos Aires,2018,221,Localización precisa,,,biblio_aiglesias@yahoo.com.ar,6441030,Comunitaria,La Plata,1920,Bibliotecas Populares,-58.08055,Villa Elisa,B1894GPP,,-34.852017,4730649,CONABIP,6,Biblioteca Popular Alejo Iglesias,6 (ex12) 1086,6441,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,carloslaurreaga@hotmail.com,6035010,Comunitaria,Avellaneda,1918,Bibliotecas Populares,-58.373667,Gerli,1870,,-34.678183,42042651,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Limay 1234,6035,bibliotecas
+,,Buenos Aires,2018,3388,Localización precisa,,,bipop@servicoopsa.com.ar,6154050,Comunitaria,Carlos Tejedor,1920,Bibliotecas Populares,-62.773567,Tres Algarrobos,B6231ABJ,,-35.196633,492857,CONABIP,6,Biblioteca Popular Bernardino Rivadavia,25 de Mayo 420,6154,bibliotecas
+,,Buenos Aires,2018,2983,Localización precisa,,,bibsarmiento@3net.com.ar,6833100,Comunitaria,Tres Arroyos,1899,Bibliotecas Populares,-60.272283,Tres Arroyos,7500,,-38.379233,430721,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Av.Moreno 334,6833,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,s/d,6798020,Comunitaria,Tapalque,1921,Bibliotecas Populares,-60.024217,Tapalqué,7303,,-36.358033,s/d,CONABIP,6,Biblioteca Popular General Bartolomé Mitre,9 de Julio 610,6798,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,biblioarroyocorto@s8.coopenet.com.ar,6700010,Comunitaria,Saavedra,1942,Bibliotecas Populares,-62.314467,Arroyo Corto,8172,,-37.509883,s/d,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Biga y Gossetti,6700,bibliotecas
+,,Buenos Aires,2018,2357,Localización precisa,,,bibliotejedor@yahoo.com.ar,6154010,Comunitaria,Carlos Tejedor,1916,Bibliotecas Populares,-62.420533,Carlos Tejedor,B6455ADD,,-35.392067,420574,CONABIP,6,Biblioteca Popular Roque Saénz Peña,Alberto H.Almirón 148,6154,bibliotecas
+,,Buenos Aires,2018,2273,Localización precisa,,,bibliocada@yahoo.com.ar,6161010,Comunitaria,Carmen de Areco,1914,Bibliotecas Populares,-59.8214,Carmen de Areco,B6725BNP,,-34.378083,440522,CONABIP,6,Biblioteca Popular Juan Bautista Alberdi,Rivadavia 586,6161,bibliotecas
+,,Buenos Aires,2018,s/d,Localización precisa,,,s/d,6308010,Comunitaria,General Guido,1930,Bibliotecas Populares,-57.792,General Guido,7118,,-36.641133,s/d,CONABIP,6,Biblioteca Popular Carlos Guido Spano,25 de Mayo,6308,bibliotecas
+,,Buenos Aires,2018,2261,Localización precisa,,,s/d,6476030,Comunitaria,Loberia,1918,Bibliotecas Populares,-58.783983,Loberia,7635,,-38.16465,440505,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Sarmiento 120,6476,bibliotecas
+,,Buenos Aires,2018,2477,Localización precisa,,,s/d,6623120,Comunitaria,Pergamino,1919,Bibliotecas Populares,-60.505283,Rancagua,2701,,-34.028067,493017,CONABIP,6,Biblioteca Popular Domingo Faustino Sarmiento,Santa Ana 380,6623,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bibliopopsanmartin2001@yahoo.com.ar,6371010,Comunitaria,General San Martin,1914,Bibliotecas Populares,-58.539117,General San Martín,1650,,-34.575767,47240170,CONABIP,6,Biblioteca Popular General San Martín,Matheu (56) 3728,6371,bibliotecas
+,,Buenos Aires,2018,11,Localización precisa,,,bibliotecasarmiento@yahoo.com.ar,6434010,Comunitaria,Lanus,1918,Bibliotecas Populares,-58.409383,Valentín Alsina,1822,,-34.671033,42283676,CONABIP,6,Biblioteca Popular y Sociedad Fomento Domingo Faustino Sarmiento,Av. Pte. Perón 3065,6434,bibliotecas
+,,Entre Ríos,2018,3442,Localización precisa,,,bibliotecapopularelporvenir@yahoo.com.ar,30098040,Comunitaria,Uruguay,1872,Bibliotecas Populares,-58.233367,Concepción del Uruguay,3260,,-32.485567,426540,CONABIP,30,Biblioteca Popular El porvenir,San Martín 782,30098,bibliotecas
+,,Entre Ríos,2018,3447,Localización precisa,,,fiatlux_colon@ciudad.com.ar,30008020,Comunitaria,Colon,1876,Bibliotecas Populares,-58.137233,Colón,3280,,-32.2205,421597,CONABIP,30,Biblioteca Popular Fiat Lux,12 de Abril 208,30008,bibliotecas
+,,Entre Ríos,2018,345,Localización precisa,,,man.1872@concordia.com.ar,30015060,Comunitaria,Concordia,1872,Bibliotecas Populares,-58.015933,Concordia,E3200EDC,,-31.398083,4214630,CONABIP,30,Biblioteca Popular Olegario V. Andrade,1º de Mayo 141,30015,bibliotecas
+,,Entre Ríos,2018,343,Localización precisa,,,bpdte@santafe.com.ar,30021080,Comunitaria,Diamante,1883,Bibliotecas Populares,-60.63675,Diamante,3105,,-32.068583,4983480,CONABIP,30,Biblioteca Popular Diamante,Eva Perón 628,30021,bibliotecas
+,,Entre Ríos,2018,3455,Localización precisa,,,bpsarmiento@viguay.com.ar,30113070,Comunitaria,Villaguay,1924,Bibliotecas Populares,-58.958967,Villa Dominguez,3246,,-31.986183,5492146,CONABIP,30,Biblioteca Popular Domingo Faustino Sarmiento,Rivadavia 1482,30113,bibliotecas
+,,Entre Ríos,2018,s/d,Localización precisa,,,s/d,30070010,Comunitaria,La Paz,1939,Bibliotecas Populares,-59.44575,Bovril,3142,,-31.343397,s/d,CONABIP,30,Biblioteca Popular Domingo Faustino Sarmiento,San Martín 345,30070,bibliotecas
+,,Entre Ríos,2018,343,Localización precisa,,,biblioteca_ramirez@yahoo.com.ar,30021120,Comunitaria,Diamante,1930,Bibliotecas Populares,-60.197317,General Ramirez,3164,,-32.173167,4902166,CONABIP,30,Biblioteca Popular Luis Lorenzo Etchevehere,Avellaneda 26,30021,bibliotecas
+,,Entre Ríos,2018,3456,Localización precisa,,,biblio_pop_federacion@hotmail.com,30028070,Comunitaria,Federacion,1896,Bibliotecas Populares,-57.920767,Federación,3206,,-30.98515,482444,CONABIP,30,Biblioteca Popular Rivadavia,Av. Entre Ríos 67,30028,bibliotecas
+,,Entre Ríos,2018,3446,Localización precisa,,,s/d,30056070,Comunitaria,Gualeguaychu,1898,Bibliotecas Populares,-58.50925,Gualeguaychú,2820,,-33.009717,427287,CONABIP,30,Biblioteca Popular Olegario V. Andrade,Camila Nievas 78,30056,bibliotecas
+,,Entre Ríos,2018,3446,Localización precisa,,,bibliosarmiento@yahoo.com,30056070,Comunitaria,Gualeguaychu,1869,Bibliotecas Populares,-58.516917,Gualeguaychú,2820,,-33.010167,422702,CONABIP,30,Biblioteca Popular Domingo Faustino Sarmiento,San Martín 900,30056,bibliotecas
+,,Entre Ríos,2018,3444,Localización precisa,,,bibpopmastronardi@yahoo.com.ar,30049040,Comunitaria,Gualeguay,1892,Bibliotecas Populares,-59.3126,Gualeguay,2840,,-33.149633,422048,CONABIP,30,Biblioteca Popular Carlos Mastronardi,25 de Mayo 414,30049,bibliotecas
+,,Entre Ríos,2018,3435,Localización precisa,,,bibliotecapopular_nogoya@hotmail.com,30077070,Comunitaria,Nogoya,1875,Bibliotecas Populares,-59.787567,Nogoyá,E3150CAW,,-32.398567,423391,CONABIP,30,Biblioteca Popular Fermín Chávez de Nogoyá,Caseros 951,30077,bibliotecas
+,,Entre Ríos,2018,343,Localización precisa,,,info@BibliotecaParana.org.ar,30084160,Comunitaria,Parana,1873,Bibliotecas Populares,-60.530233,Paraná,3100,,-31.728933,4313014,CONABIP,30,Biblioteca Popular Del Paraná,Buenos Aires 256,30084,bibliotecas
+,,Entre Ríos,2018,3437,Localización precisa,,,biblioteca_urquiza@arg.net.ar,30070080,Comunitaria,La Paz,1919,Bibliotecas Populares,-59.795467,Santa Elena,E3192APE,,-30.946933,482439,CONABIP,30,Biblioteca Popular Escolar Urquiza,Belgrano 457,30070,bibliotecas
+,,Entre Ríos,2018,3446,Localización precisa,,,bibpopurd@urdi.com.ar,30056110,Comunitaria,Gualeguaychu,1912,Bibliotecas Populares,-58.889983,Urdinarrain,2826,,-32.68605,480513,CONABIP,30,Biblioteca Popular Urdinarrain,Av.Libertad 353 (y A.del Valle,30056,bibliotecas
+,,Entre Ríos,2018,3436,Localización precisa,,,bibliotecamdv@ciudad.com.ar,30105060,Comunitaria,Victoria,1895,Bibliotecas Populares,-60.1529,Victoria,3153,,-32.623083,426108,CONABIP,30,Biblioteca Popular Municipal Domingo Faustino Sarmiento,9 de julio (esq. Piaggio) 202,30105,bibliotecas
+,,Entre Ríos,2018,3447,Localización precisa,,,bibliotecagralmitre@ciudad.com.ar,30008020,Comunitaria,Colon,1904,Bibliotecas Populares,-58.402933,Villa Elisa,3265,,-32.16495,481042,CONABIP,30,Biblioteca Popular General Mitre,Av.Mitre 1160,30008,bibliotecas
+,,Entre Ríos,2018,2625,Localización precisa,,,bibliofederal@hotmail.com,30035030,Comunitaria,Federal,1912,Bibliotecas Populares,-58.7789,Federal,3180,,-30.956567,426393,CONABIP,30,Biblioteca Popular Domingo Faustino Sarmiento,Paraná e/Donovan y Antelo,30035,bibliotecas
+,,Entre Ríos,2018,3455,Localización precisa,,,bibpop@clavis.com.ar,30113080,Comunitaria,Villaguay,1873,Bibliotecas Populares,-59.02755,Villaguay,3240,,-31.867833,423175,CONABIP,30,Biblioteca Popular Bartolomé Mitre,San Martín 230,30113,bibliotecas
+,,Entre Ríos,2018,3455,Localización precisa,,,biblioteca@viguay.com.ar,30113080,Comunitaria,Villaguay,1893,Bibliotecas Populares,-59.029567,Villaguay,E3240ETN,,-31.864033,421325,CONABIP,30,Biblioteca Popular Primer Presidente Bernardino Rivadavia,Moreno (Escuela Sup.Nº 1) 650,30113,bibliotecas
+,,Entre Ríos,2018,3456,Localización precisa,,,bibliotecapopularurquiza@multichajari.com.ar,30028010,Comunitaria,Federacion,1909,Bibliotecas Populares,-57.981717,Chajarí,E3228CKA,,-30.7571,422022,CONABIP,30,Biblioteca Popular Urquíza,Av.Belgrano 1375,30028,bibliotecas
+,,Entre Ríos,2018,3447,Localización precisa,,,danielcreppy@yahoo.com.ar,30008090,Comunitaria,Colon,1904,Bibliotecas Populares,-58.218864,San José,E3283ADC,,-32.209324,470530,CONABIP,30,Biblioteca Popular General Urquíza,25 de Mayo 1833,30008,bibliotecas
+,,Entre Ríos,2018,345,Localización precisa,,,gorostiaga_biblioteca@hotmail.com,30015060,Comunitaria,Concordia,1917,Bibliotecas Populares,-58.0084,Concordia,E3200BTA,,-31.399367,4230079,CONABIP,30,Biblioteca Popular Amelia Podesta de Gorostiaga,Bolivia 593,30015,bibliotecas
+,,Entre Ríos,2018,3445,Localización precisa,,,bibliotecacarruego@gmail.com,30091090,Comunitaria,Tala,1920,Bibliotecas Populares,-59.398083,Macia,3177,,-32.173533,461238,CONABIP,30,Biblioteca Popular Mario Domingo Carruego,Gualeguaychu 433,30091,bibliotecas
+,,Santa Fe,2018,3467,Localización precisa,,,s/d,82014020,Comunitaria,Caseros,1915,Bibliotecas Populares,-61.791717,Arteaga,2187,,-33.091717,4450194,CONABIP,82,Biblioteca Popular Sarmiento,Bv.San Martín 246,82014,bibliotecas
