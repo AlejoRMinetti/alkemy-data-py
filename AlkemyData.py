@@ -29,6 +29,7 @@ es la fecha de descarga.
 """
 from calendar import month
 import requests
+import logging
 
 import datetime
 import csv
@@ -40,13 +41,17 @@ from sqlalchemy.ext.declarative import declarative_base
 import pandas as pd
 
 
-def get_data_to_csv(category, url, print_data=False):
+def save_data_to_csv(category, url, print_data=False):
     """
     get data from URL, add category to 'categoria' key
     and save to csv in local directory: ./category/YYYY-MM/category-DD-MM-YYYY.csv
     datetime for save csv: now()
     save all keys in columns
     """
+    # save loging info in file
+    logging.basicConfig(filename='Data.log', level=logging.DEBUG)
+    logging.info('Getting data from: '+url)
+
     data = requests.get(url).json()
     for item in data['result']['records']:
         item['categoria'] = category
@@ -59,6 +64,7 @@ def get_data_to_csv(category, url, print_data=False):
 
     # create directory if not exists
     if not os.path.exists(category+'/'+str(now.year)+'-'+str(now.month)):
+        logging.info('Creating directory: '+category+'/'+str(now.year)+'-'+str(now.month))
         os.makedirs(category+'/'+str(now.year)+'-'+str(now.month))
         writeMode = 'a'
     else:
@@ -72,13 +78,24 @@ def get_data_to_csv(category, url, print_data=False):
         writer.writeheader()
         for item in data['result']['records']:
             writer.writerow(item)
+    logging.info('Data saved in: '+category+'/'+str(now.year)+'-'+str(now.month)+'/'+category+'-'+str(now.day)+'-'
+            +str(now.month)+'-'+str(now.year)+'.csv')
 
-def csv_to_dataframe(category, day, month, year, show_head=False, show_info=False):
+
+def csv_to_dataframe(category, day, month, year, show_head=False, show_info=False, convert_dataType=True):
     """
-    read csv file and return dataframe
+    read csv from local directory: ./category/YYYY-MM/category-DD-MM-YYYY.csv
+    and return pandas dataframe
     """
+    logging.basicConfig(filename='Data.log', level=logging.DEBUG)
+    logging.info('Reading csv file: '+category+'/'+str(year)+'-'+str(month)+'/'+category+'-'+str(day)+'-'
+            +str(month)+'-'+str(year)+'.csv')
+
     df = pd.read_csv(category+'/'+str(year)+'-'+str(month)+'/'+category+'-'+str(day)+'-'
             +str(month)+'-'+str(year)+'.csv')
+
+    if convert_dataType:
+        df = df.convert_dtypes()
 
     if show_head:
         print('First data of: '+category+'-'+str(day)+'-'+str(month)+'-'+str(year)+'.csv'+'\n')
@@ -91,18 +108,17 @@ def csv_to_dataframe(category, day, month, year, show_head=False, show_info=Fals
         print('\n')
 
     return df
-    """
-    read csv from local directory: ./category/YYYY-MM/category-DD-MM-YYYY.csv
-    and return pandas dataframe
-    """
 
 def create_table(df, category, engine, show_query=False):
     """
     create table in database
     """
+    logging.basicConfig(filename='Data.log', level=logging.DEBUG)
+    logging.info('Creating table: '+category+'_'+str(df.iloc[0]['categoria']))
     df.to_sql(category, engine, if_exists='replace', index=False)
 
     if show_query:
+        print(df.head())
         print(category+' table created, show query of 3 rows:')
         for query in engine.execute('SELECT * FROM '+category+' LIMIT 3'):
             print(query)
@@ -111,18 +127,19 @@ def create_table(df, category, engine, show_query=False):
 
 if __name__ == '__main__':
     ## save data from url to csv:
-
+    """ 
+    """
     # museos: https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d
-    get_data_to_csv('museos', 
+    save_data_to_csv('museos', 
         'https://datos.gob.ar/api/3/action/datastore_search?resource_id=cultura_4207def0-2ff7-41d5-9095-d42ae8207a5d')
 
     # salas_cine: https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae
-    get_data_to_csv("salas_cine", 
+    save_data_to_csv("salas_cine", 
     'https://datos.gob.ar/api/3/action/datastore_search?resource_id=cultura_392ce1a8-ef11-4776-b280-6f1c7fae16ae')
 
     # bibliotecas: https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7
-    get_data_to_csv('bibliotecas','https://datos.gob.ar/api/3/action/datastore_search?resource_id=cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7')
-
+    save_data_to_csv('bibliotecas','https://datos.gob.ar/api/3/action/datastore_search?resource_id=cultura_01c6c048-dbeb-44e0-8efa-6944f73715d7')
+      
     ## read csv to dataframe:
     day = datetime.datetime.now().day
     month = datetime.datetime.now().month
@@ -130,12 +147,42 @@ if __name__ == '__main__':
     df_museos = csv_to_dataframe('museos', day, month, year, show_head=True, show_info=True)
     df_salas_cine = csv_to_dataframe('salas_cine', day, month, year, show_head=True, show_info=True)
     df_bibliotecas = csv_to_dataframe('bibliotecas', day, month, year, show_head=True, show_info=True)
-    
+
+
+    ## TODO: clean dataframe, create multiple df for each entity, create tables in database
+    # remove empty columns
+    df_museos.dropna(axis=1, how='all', inplace=True)
+    df_salas_cine.dropna(axis=1, how='all', inplace=True)
+    df_bibliotecas.dropna(axis=1, how='all', inplace=True)
+    # remove 'Categoría' column if exists
+    if 'Categoría' in df_museos.columns:
+        df_museos.drop('Categoría', axis=1, inplace=True)
+    if 'Categoría' in df_salas_cine.columns:
+        df_salas_cine.drop('Categoría', axis=1, inplace=True)
+    if 'Categoría' in df_bibliotecas.columns:
+        df_bibliotecas.drop('Categoría', axis=1, inplace=True)
+
+
+
+    # show info
+    print('\n')
+    print('Info of museos dataframe:')
+    print(df_museos.info())
+    print('\n')
+    print('Info of salas_cine dataframe:')
+    print(df_salas_cine.info())
+    print('\n')
+    print('Info of bibliotecas dataframe:')
+    print(df_bibliotecas.info())
+    print('\n')
+
     # connect to postgreSQL database using sqlalchemy
-    engine = create_engine('postgresql+psycopg2://postgres:your_password@localhost:5433/prueba')
+    engine = create_engine('postgresql+psycopg2://postgres:arm13@localhost:5433/prueba')
     
     # create tables on postgreSQL database from df_museos, df_salas_cine and df_bibliotecas
     create_table(df_museos, 'museos', engine, show_query=True)
     create_table(df_salas_cine, 'salas_cine', engine, show_query=True)
     create_table(df_bibliotecas, 'bibliotecas', engine, show_query=True)
+    """ 
   
+ """

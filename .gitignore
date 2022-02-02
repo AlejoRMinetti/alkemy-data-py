@@ -1,0 +1,9 @@
+venv/
+examples/
+Data.log
+
+# CSV data from url
+museos/
+salas_cine/
+bibliotecas/
+
